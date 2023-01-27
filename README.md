@@ -8,7 +8,7 @@
   
 ## About me:
 
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ - :telescope: I work on educational projects
 
 - :seedling: Exploring Technical Content Writing.
 
