@@ -6,7 +6,6 @@
 </div>
 
 ## :wave: Hello, everyone!
-  ---
   
 # About me:
 
@@ -20,7 +19,7 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stanislaw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaw-olszewski/)
 
----
+
 
 # Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
