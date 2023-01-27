@@ -18,6 +18,8 @@
 
 - :surfer: In my free time, I educate myself and read forums
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stanislaw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaw-olszewski/)
+
 ---
 
 # Languages and Tools
