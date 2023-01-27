@@ -5,7 +5,7 @@
   <img src="Assets/NavyTheme-boy 1.png" width="250"/>
 </div>
 
-## :wave: Hello, everyone
+## :wave: Hello, everyone!
   ---
   
 # About me:
@@ -22,7 +22,7 @@
 
 ---
 
-# Languages and Tools
+# Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PgQL"  alt="PgSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -38,7 +38,7 @@
   
 </div>
 
-# My Stats :
+# My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vilka13&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
