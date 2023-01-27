@@ -36,10 +36,13 @@
   
 </div>
 
+# My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vilka13&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 
-
-Follow me
+### :writing_hand: Blog Posts :
+- Python Web
 
 
 <img src="https://komarev.com/ghpvc/?username=vilka13-username&style=flat-square&color=blue" alt=""/>
